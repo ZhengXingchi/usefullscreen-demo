@@ -20,6 +20,7 @@
     "autod": "autod"
   },
   "dependencies": {
+    "ahooks": "^2.2.0",
     "antd-mobile": "^2.2.6",
     "cross-env": "^5.2.0",
     "egg": "^2.12.0",
